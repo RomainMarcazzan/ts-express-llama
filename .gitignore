@@ -1,0 +1,5 @@
+node_modules
+dist
+index
+models/hf_mradermacher_Llama-3.2-3B-Instruct.Q8_0.gguf
+.DS_Store
